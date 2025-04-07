@@ -4,6 +4,7 @@
       "language": "browser"
     }
   ],
+
   "modules": [
     {
       "name": "Sandbox",
